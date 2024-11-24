@@ -1,0 +1,21 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: green;
+}
+
+h1 {
+  color: white;
+}
+
+#header {
+  color: blueviolet;
+}
+
+.a1 {
+  font-weight: bold;
+  color: aquamarine;
+}
+
+.a2 {
+  color: brown;
+}
